@@ -5,3 +5,5 @@
 
 ## References :
 - Wikipedia : https://en.wikipedia.org/wiki/PID_controller
+## Autor
+* Jorge Rando Hernández :part_alternation_mark: [@jorgerando](https://github.com/jorgerando)
